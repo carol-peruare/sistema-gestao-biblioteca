@@ -1,16 +1,18 @@
-# 📚 Sistema de Gestão de Biblioteca
+# Sistema de Gestão de Biblioteca
 
-Sistema desenvolvido em linguagem C para a **Avaliação Prática 1** da disciplina de Algoritmos e Estruturas de Dados I (UFMT - 2025/1).
+Este projeto apresenta um gerenciador de biblioteca via console desenvolvido em linguagem C. O software foi criado como parte da Avaliação Prática 1 da disciplina de Algoritmos e Estruturas de Dados I (UFMT-2025/1).
 
-O projeto consiste em um gerenciador de biblioteca via console, focado na aplicação de estruturas de controle e manipulação básica de strings.
+O objetivo principal foi aplicar conhecimentos de estruturas de controle e manipulação de strings para criar uma ferramenta funcional de organização de acervo.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
-* **Sistema de Login:** Autenticação de usuário com verificação de credenciais.
-* **Cadastro de Livros:** Permite a inserção de novos títulos no acervo.
-* **Controle de Empréstimos:** Validação de disponibilidade e registro de saída de livros.
-* **Simulador de Multas:** Cálculo financeiro simples baseado nos dias de atraso na devolução.
-* **Menu Interativo:** Interface via console utilizando `switch/case` para navegação.
+O sistema conta com um menu interativo que permite:
 
----
-Desenvolvido por **Carolina Peruare**.
+* **Controle de Acesso:** Sistema de login que exige verificação de credenciais para acessar o sistema.
+* **Cadastro de Livros:** Módulo para inserir e registrar novos títulos no acervo da biblioteca.
+* **Gestão de Empréstimos:** Validação da disponibilidade do livro e registro da sua saída.
+* **Simulador de Multas:** Cálculo financeiro simples que determina o valor a ser pago com base nos dias de atraso na devolução.
+
+## Autora
+
+* [Carolina Peruare](https://github.com/carol-peruare)
